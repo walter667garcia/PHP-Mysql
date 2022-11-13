@@ -1,0 +1,30 @@
+body {
+  width: 100%;
+  height: 100vh;
+  margin: 12px;
+}
+
+.Datos_Lista {
+  background-color: coral;
+  margin: auto;
+  border-radius: 25px;
+  align-content: center;
+  padding: 10px;
+  color: white;
+  cursor: pointer;
+  width: 600px;
+  height: auto;
+}
+
+.Ingresar,
+.Datos_Lista {
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.suma {
+  width: 25px;
+  height: 14px;
+  color:black;
+  
+}
